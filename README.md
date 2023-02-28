@@ -21,3 +21,5 @@ Para isso use o comando npm -v
 
 npm i
 npm start
+
+(Projeto foi desenvolvido seguindo layout de projeto de desing figma disponibilizado pelo curso Cubos Academy) 
