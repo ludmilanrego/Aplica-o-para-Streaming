@@ -1,7 +1,7 @@
 # Aplicação-para-Streaming
 
 # API-Streaming - (Js - Css - Html - DOM)
-Aplicação front-end responsável por fazer uma API para uma plataforma Streaming de filmes importando dados de uma API externa.
+Aplicação front-end responsável por uma plataforma Streaming de filmes importando dados de uma API externa.
 
 Operações realizadas:
 -   Visualização de filmes
@@ -23,3 +23,4 @@ npm i
 npm start
 
 
+#####tags: Js - Css - Html - DOM
